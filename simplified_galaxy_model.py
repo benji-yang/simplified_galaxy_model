@@ -1,14 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 24 14:23:28 2021
-
-@author: Chang Yee Zhwen
-"""
-
-"""
-Created on Mon Jun 21 18:36:07 2021
-@author: Guo Jing Yang
-"""
 
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation as FuncAnimation
